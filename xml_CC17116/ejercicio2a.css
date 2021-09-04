@@ -1,0 +1,66 @@
+pais{
+	background: lightblue;
+}
+departamento{
+	background: white;
+	color: lightgray;
+	size: 1cm;
+	display: block;
+}
+cabecera{
+	background: blue;
+	display: inline;
+}
+habitantes{
+	background: white;
+	color:black;
+	display: inline;
+}
+altura{
+	background: white;
+	color: blue;
+	display: inline;
+
+}
+moneda{
+	background: blue;
+	color: green;
+	display: inline;
+
+}
+codigo_area{
+	background: lightgray;
+	color: black;
+	display: inline;
+
+}
+idiomas{
+	background: lightgreen;
+	color: white;
+	display: inline;
+
+}
+oficial{
+	background: yellow
+	color: blue;
+	display: inline;
+
+
+}
+autoctono{
+	background: yellow
+	color: blue;
+	display: inline;
+
+}
+segundo_idioma{
+	background: yellow
+	color: blue;
+	display: inline;
+	
+}
+area_territorial{
+	background: lightgray;
+	color: blue;
+	display: inline;
+}

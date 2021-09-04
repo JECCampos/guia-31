@@ -1,0 +1,29 @@
+﻿{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa tecla",
+				"habitantes": "660,653",
+				"altura": "493 MSNM",
+				"idioma": {
+					"oficial": "Español",
+					"autoctono": "nahuat",
+					"segundo_idioma": "ingles"
+				},
+				"codigo_area": "503",
+				"moneda": "dolar estadounidense",
+				"area_territorial": "1653 km2",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

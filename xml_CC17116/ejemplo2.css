@@ -1,0 +1,24 @@
+pais{
+	background: lightblue;
+}
+departamento{
+	background: white;
+	color: white;
+	size: 1cm;
+	display: block;
+}
+cabecera{
+	background: blue;
+	display: inline;
+}
+habitantes{
+	background: white;
+	color:black;
+	display: inline;
+}
+altura{
+	background: white;
+	color: blue;
+	display: inline;
+
+}

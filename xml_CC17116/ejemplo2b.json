@@ -1,0 +1,42 @@
+﻿{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Santa tecla",
+				"habitantes": "660,653",
+				"altura": "493 MSNM",
+				"idioma": {
+					"oficial": "Español",
+					"autoctono": "nahuat",
+					"segundo_idioma": "ingles"
+				},
+				"area_territorial": "1653 km2",
+				"_id": "2",
+				"_nombre": "La Libertad"
+			},
+			{
+				"cabecera": "Santa Ana",
+				"habitantes": "264091",
+				"altura": "665 MSNM",
+				"idioma": {
+					"oficial": "Español",
+					"autoctono": "nahuat",
+					"segundo_idioma": "ingles"
+				},
+				"area_territorial": "408.01 km2",
+				"_id": "3",
+				"_nombre": "Santa Ana"
+			}
+		],
+		"_nombre": "El Salvador",
+		"_codigo_de_area": "503",
+		"_moneda": "dolar estadounidense"
+	}
+}
